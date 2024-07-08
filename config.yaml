@@ -1,0 +1,4 @@
+# config.yaml
+folder_path: "path/to/your/folder"
+yaml_front_matter: |
+  tags: tag1, tag2, tag3
